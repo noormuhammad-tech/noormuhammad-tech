@@ -55,7 +55,7 @@
   <a href="mailto:noorislam262626@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/noor-muhammad">
+  <a href="https://www.linkedin.com/in/noormuhammad-tech/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/noormuhammad-tech">
